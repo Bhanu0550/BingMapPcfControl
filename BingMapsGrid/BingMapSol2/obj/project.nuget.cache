@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iu1zlCI36gjWC91/mWn0CzwH4RDLfVWTwZMBIKcz0Ubvh5al8zfm23mgDh3Ery2hlqSXojV1Uwfe/a05jVJDWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\BingMapsGrid\\BingMapsGrid\\BingMapsGrid\\BingMapSol2\\BingMapSol2.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.9.4\\microsoft.powerapps.msbuild.pcf.1.9.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.9.4\\microsoft.powerapps.msbuild.solution.1.9.4.nupkg.sha512"
+  ],
+  "logs": []
+}

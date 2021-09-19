@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <control namespace="Pcf" constructor="BingMapsField2" version="0.0.109" display-name-key="Bing Maps Field2" description-key="BingMapsGrid description" control-type="standard">  
+    <property name="primaryFieldName" display-name-key="Primary Field" description-key="Enter the Primary Field schema which will be used to display the title on the map. For related entities use the following format (new_entityname.new_fieldname)" of-type="SingleLine.Text" usage="bound" required="true" default-value="name" />
+    <property name="bingMapsAPIKey" display-name-key="Bing Maps API Key" description-key="Enter your Bing Maps API Key." of-type="SingleLine.Text" usage="input" required="true" />
+    <resources>
+      <code path="index.ts" order="1" />
+      <css path="css/BingMapsGrid.css" order="1" />
+      <!-- <resx path="strings/BingMapsGrid.1033.resx" version="1.0.0" /> -->
+    </resources>
+     
+    <feature-usage> 
+      <uses-feature name="Device.captureAudio" required="true" /> 
+      <uses-feature name="Device.captureImage" required="true" /> 
+      <uses-feature name="Device.captureVideo" required="true" /> 
+      <uses-feature name="Device.getBarcodeValue" required="true" /> 
+      <uses-feature name="Device.getCurrentPosition" required="true" /> 
+      <uses-feature name="Device.pickFile" required="true" /> 
+      <uses-feature name="Utility" required="true" /> 
+      <uses-feature name="WebAPI" required="true" /> 
+    </feature-usage>
+  </control>
+</manifest>

@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Desktop\BingMapsGrid\BingMapsGrid\BingMapsGrid\BingMapSol2\obj\Debug\BingMapSol2.cdsprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\BingMapsGrid\BingMapsGrid\BingMapsGrid\BingMapSol2\obj\Debug\BingMapSol2.cdsproj.CoreCompileInputs.cache

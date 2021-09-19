@@ -1,0 +1,19 @@
+2021-09-19 12:34:26.613 - Info	
+Packing C:\Users\Lenovo\Desktop\BingMapsGrid\BingMapsGrid\BingMapsGrid\BingMapSol2\obj\Debug\Metadata to bin\Debug\BingMapSol2.zip
+
+2021-09-19 12:34:26.629 - Info	Processing Component: Entities
+2021-09-19 12:34:26.633 - Info	Processing Component: Roles
+2021-09-19 12:34:26.637 - Info	Processing Component: Workflows
+2021-09-19 12:34:26.637 - Info	Processing Component: FieldSecurityProfiles
+2021-09-19 12:34:26.640 - Info	Processing Component: Templates
+2021-09-19 12:34:26.641 - Info	Processing Component: EntityMaps
+2021-09-19 12:34:26.642 - Info	Processing Component: EntityRelationships
+2021-09-19 12:34:26.650 - Info	Processing Component: OrganizationSettings
+2021-09-19 12:34:26.651 - Info	Processing Component: optionsets
+2021-09-19 12:34:26.652 - Info	Processing Component: CustomControls
+2021-09-19 12:34:26.664 - Info	 - Pcf.BingMapsField2
+2021-09-19 12:34:26.668 - Info	Processing Component: SolutionPluginAssemblies
+2021-09-19 12:34:26.670 - Info	Processing Component: EntityDataProviders
+2021-09-19 12:34:26.715 - Info	
+Managed Pack complete.
+

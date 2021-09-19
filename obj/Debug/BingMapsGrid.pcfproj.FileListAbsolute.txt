@@ -1,0 +1,4 @@
+C:\PCF\BingMapsGrid\BingMapsGrid\obj\Debug\BingMapsGrid.pcfproj.AssemblyReference.cache
+C:\PCF\BingMapsGrid\BingMapsGrid\obj\Debug\BingMapsGrid.pcfproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BingMapsGrid\BingMapsGrid\obj\Debug\BingMapsGrid.pcfprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\BingMapsGrid\BingMapsGrid\obj\Debug\BingMapsGrid.pcfproj.CoreCompileInputs.cache

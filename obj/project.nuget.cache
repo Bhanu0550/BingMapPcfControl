@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ynNF74xFhpQsSn+3rQi9yTUTMkyUmr/Y8G2CW+rn4oPZVvfIdUy+e4jhhFpAVgLQ3vGt7n24cvzJPQJXIcVPEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\BingMapsGrid\\BingMapsGrid\\BingMapsGrid.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.9.4\\microsoft.powerapps.msbuild.pcf.1.9.4.nupkg.sha512"
+  ],
+  "logs": []
+}
